@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "どこが好きか言って",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-14T09:33:38.514652Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "どこが好きか言って (instrumental)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_どこが好きか言って_(instrumental)_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "どこが好きか言って",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_どこが好きか言って_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "どこが好きか言って",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_どこが好きか言って_=LOVE.txt"
+    }
+  ]
+}
